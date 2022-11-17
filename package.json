@@ -1,0 +1,39 @@
+{
+    "name": "@belowline/excel4node-typings",
+    "version": "1.8.0",
+    "description": "TypeScript definitions for excel4node",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Dominic Preap",
+            "url": "https://github.com/Dominic-Preap",
+            "githubUsername": "Dominic-Preap"
+        },
+        {
+            "name": "Francis Yeo",
+            "url": "https://github.com/francisyzy",
+            "githubUsername": "francisyzy"
+        },
+        {
+            "name": "cooljeffro",
+            "url": "https://github.com/cooljeffro",
+            "githubUsername": "cooljeffro"
+        },
+        {
+            "name": "Kuby (커비!)",
+            "url": "https://github.com/ziponia",
+            "githubUsername": "ziponia"
+        },
+        {
+            "name": "Andrey Smirnov",
+            "url": "https://github.com/kitsuned",
+            "githubUsername": "kitsuned"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/btl/excel4node.git"
+    }
+}
